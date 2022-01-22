@@ -1,10 +1,5 @@
-import './ukol1.js';
-import './ukol2.js';
-import './ukol3.js';
-import './ukol4.js';
-import './ukol5.js';
-import './ukol6.js';
-import './ukol7.js';
+
+import './ukol8.js';
 
 //Tento prikaz neco vypise do konzole
 
